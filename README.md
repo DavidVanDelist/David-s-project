@@ -1,7 +1,7 @@
 # David-s-project
 # Project Name
 
- Add short description of project here > 
+ Add short description of project here > If you show it an image of a car it will tell you what kind of car it is
 
 ![add image descrition here](direct image link here)
 
