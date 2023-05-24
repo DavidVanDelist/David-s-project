@@ -13,7 +13,7 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 First you need to open the link to jupyter labs here: http://192.168.86.59:8888/lab/tree/classification/classification_interactive.ipynb
 And then you will need to connect your camera(if you have not done the steps to setting up jupyter labs you might need to do that first).
 Run all the steps until it shows your camera is on.
-Then you can point the camera to any of the cars in the folders and it will tell you what it is!
+Then you can point the camera to any cars you find on the internet and it will tell you if its either a muscle car, a truck, or a sports car.
 
 
 [View a video explanation here](video link)
