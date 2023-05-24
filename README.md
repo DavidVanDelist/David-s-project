@@ -6,7 +6,7 @@ In my project you will be able to show a picture of a car to the camera and it w
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+The algorthm detects what different kind of car the picture is. So if you show it a picture of a truck it will tell you its a truck, if you show it a picture of a mustang or camaro it will tell you its a muscle car, if you show it a picture of a supra or a miata it will tell you its a sports car. It does depend on the angle of the camera and if you showing the picture far away or very close to the camera. 
 
 ## Running this project
 
