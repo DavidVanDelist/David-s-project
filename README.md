@@ -18,4 +18,5 @@ Run all the steps until it shows your camera is on.
 Then you can point the camera to any cars you find on the internet and it will tell you if its either a muscle car, a truck, or a sports car.
 
 
-[View a video explanation here](video link)
+Here is my video explanation, sorry for the bad video quality in advance I dont know why its so bad.
+https://www.youtube.com/watch?v=u0yMdJ3YWYM&t=20s
