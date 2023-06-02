@@ -3,7 +3,7 @@
 In my project you will be able to show a picture of a car to the camera and it will tell you what kind of car it is.
 
 Here are some images to prove that it works.
-file:///C:/Users/david/Pictures/Screenshot%202023-06-01%20172255.png, file:///C:/Users/david/Pictures/Screenshot%202023-06-01%20171839.png, file:///C:/Users/david/Pictures/Screenshot%202023-06-01%20171839.png
+file:///C:/Users/david/Pictures/Screenshot%202023-06-01%20172255.png,  file:///C:/Users/david/Pictures/Screenshot%202023-06-01%20171839.png,  file:///C:/Users/david/Pictures/Screenshot%202023-06-01%20171839.png
                              
 
 ## The Algorithm
